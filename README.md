@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phyothihawin&label=Profile%20views&color=0e75b6&style=flat" alt="phyothihawin" /> </p>
 
-- 🔭 This is my fucking first android project [FoodDi](https://play.google.com/store/apps/details?id=com.pthw.food)
+- 🔭 This is my fucking first android project [FoodDi](https://play.google.com/store/apps/details?id=com.pthw.food).
 
-- 🌱 I’m currently learning **Flutter, English**
+- 🌱 I’m currently learning **Flutter, English**.
 
 - 👨‍💻 All of my projects are available at [https://phyothihawin.github.io/](https://phyothihawin.github.io/)
 
-- 💬 Ask me about **Android, Flutter, Laravel**
+- 💬 Ask me about **Android, Flutter, Laravel**.
 
 - 📫 How to reach me **phyothiha2580@gmail.com**
 
