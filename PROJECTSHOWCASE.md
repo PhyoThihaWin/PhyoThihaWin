@@ -1,12 +1,14 @@
+
 # PROJECT SHOWCASE.
 
 ## Pocket MM
-  ![Pocket MM](https://play-lh.googleusercontent.com/F3cVcZfyraJjOYSBaZ4cFacNrou-WHbGIESav88fTk38HHLULMb5dyX-GlvXA5zepQE=w480-h960-rw "Pocket MM")
+  <img src="https://play-lh.googleusercontent.com/F3cVcZfyraJjOYSBaZ4cFacNrou-WHbGIESav88fTk38HHLULMb5dyX-GlvXA5zepQE=w480-h960-rw" alt="drawing" width="200"/> <br>
 - Merchant and customer Loyalty Points system app.
 - Structure with Clean Architecture, Layers Modularization.
 - Use Kotlin, DI, Jetpack components, Firebase, Pushy.
 - Deployment with GitLab CI/CD pipeline for QA, UAT, PROD.
 - Focus on App Security and RASP
+
 [Google PlayStore](https://play.google.com/store/apps/details?id=com.pocket.customer)
 
 ## Heal by Pun Hlaing
