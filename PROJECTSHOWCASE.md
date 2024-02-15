@@ -1,7 +1,7 @@
 # PROJECT SHOWCASE.
 
 ## Pocket MM
-  ![Pocket MM](https://play-lh.googleusercontent.com/F3cVcZfyraJjOYSBaZ4cFacNrou-WHbGIESav88fTk38HHLULMb5dyX-GlvXA5zepQE=w480-h960-rw "Pocket MM" =200x200)
+  ![Pocket MM](https://play-lh.googleusercontent.com/F3cVcZfyraJjOYSBaZ4cFacNrou-WHbGIESav88fTk38HHLULMb5dyX-GlvXA5zepQE=w480-h960-rw "Pocket MM")
 - Merchant and customer Loyalty Points system app.
 - Structure with Clean Architecture, Layers Modularization.
 - Use Kotlin, DI, Jetpack components, Firebase, Pushy.
