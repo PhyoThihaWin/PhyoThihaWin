@@ -1,7 +1,7 @@
   
 <h1 align="center">Hi there <img src="./images/hand_wave.gif" height="30" />, I am Phyo Thiha Win</h1>  
 
-#### A passionate Mobile Developer from Myanmar, currently in Bangkok. I'm learning Jetpack Compose, Flutter and Golang.
+### A passionate Mobile Developer from Myanmar, currently in Bangkok. I'm learning Jetpack Compose, Flutter and Golang.
 
 <!---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phyothihawin&label=Profile%20views&color=0e75b6&style=flat" alt="phyothihawin" /> </p> 
