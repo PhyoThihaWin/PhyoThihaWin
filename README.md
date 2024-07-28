@@ -1,7 +1,7 @@
   
 <h1 align="center">Hi there <img src="./images/hand_wave.gif" height="30" />, I am Phyo Thiha Win</h1>  
 
-<h3 align="center">A passionate Mobile Developer from Myanmar, currently in Bangkok. I'm learning Jetpack Compose, Flutter and Golang.</h3><br>
+<h3 align="center">A passionate Mobile Developer from Myanmar, currently in Bangkok. I'm learning Jetpack Compose, Flutter and Golang.</h3>
 
 <!---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phyothihawin&label=Profile%20views&color=0e75b6&style=flat" alt="phyothihawin" /> </p> 
@@ -35,7 +35,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40"/> </a> 
 </p>  
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phyothihawin&show_icons=true&locale=en" alt="phyothihawin" /></p>  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phyothihawin&show_icons=true&locale=en&langs_count=3" alt="phyothihawin" /></p>  
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phyothihawin&show_icons=true&locale=en" alt="phyothihawin" /></p>  
 
