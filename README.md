@@ -20,26 +20,26 @@
  
 <h3 align="left">Languages and Tools:</h3>  
 <p align="left"> 
-<a href="https://developer.android.com" style="text-decoration: none;"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" height="40"/> </a>
+<a href="https://developer.android.com" style="text-decoration: none;"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" height="40"/></a>
 <img width="6" />
-<a href="https://developer.android.com/compose" style="text-decoration: none;"> <img src="https://developer.android.com/static/events/dev-challenge/images/dev-challenge_jetpack-compose-asset.svg" alt="jetpack-compose" height="40"/> </a> 
+<a href="https://developer.android.com/compose" style="text-decoration: none;"> <img src="https://developer.android.com/static/events/dev-challenge/images/dev-challenge_jetpack-compose-asset.svg" alt="jetpack-compose" height="40"/></a> 
 <img width="6" />
-<a href="https://kotlinlang.org" style="text-decoration: none;"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" height="40"/> </a>
+<a href="https://kotlinlang.org" style="text-decoration: none;"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" height="40"/></a>
 <img width="6" />
-<a href="https://flutter.dev" style="text-decoration: none;"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" height="40"/> </a> 
+<a href="https://flutter.dev" style="text-decoration: none;"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" height="40"/></a> 
 <img width="6" />
-<a href="https://dart.dev" style="text-decoration: none;"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" height="40"/> </a> 
+<a href="https://dart.dev" style="text-decoration: none;"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" height="40"/></a> 
 <img width="6" />
-<a href="https://go.dev/" style="text-decoration: none;"> <img src="https://skillicons.dev/icons?i=go" alt="Go" height="40"/> </a>
+<a href="https://go.dev/" style="text-decoration: none;"> <img src="https://skillicons.dev/icons?i=go" alt="Go" height="40"/></a>
 <img width="6" />
-<a href="https://firebase.google.com/" style="text-decoration: none;"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" height="40"/> </a> 
-<a href="https://git-scm.com/" style="text-decoration: none;"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> 
+<a href="https://firebase.google.com/" style="text-decoration: none;"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" height="40"/></a> 
+<a href="https://git-scm.com/" style="text-decoration: none;"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></a> 
 <img width="6" />
-<a href="https://graphql.org" style="text-decoration: none;"> <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" height="40"/> </a> 
+<a href="https://graphql.org" style="text-decoration: none;"> <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" height="40"/></a> 
 <img width="6" />
-<a href="https://www.java.com" style="text-decoration: none;"> <img src="https://skillicons.dev/icons?i=java" alt="java" height="40"/> </a> 
+<a href="https://www.java.com" style="text-decoration: none;"> <img src="https://skillicons.dev/icons?i=java" alt="java" height="40"/></a> 
 <img width="6" />
-<a href="https://www.figma.com/" style="text-decoration: none;"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" height="40"/> </a> 
+<a href="https://www.figma.com/" style="text-decoration: none;"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" height="40"/></a> 
 </p>  
 
 ###
