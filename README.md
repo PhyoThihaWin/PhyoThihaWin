@@ -48,7 +48,7 @@
 <p align="left">  
 <a href="https://linkedin.com/in/phyo-thiha-win-a8a496183" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1656958733linkedin-logo-png.png" alt="phyo-thiha-win-a8a496183" height="30" /></a> 
 <img width="16">
-<a href="https://stackoverflow.com/users/19853487/phyo-thiha-win" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKjhz5aIvPEBpyvbCsK5xF41jhD_v83ZWIw&s" alt="phyo-thiha-win-stackoverflow" height="32" /></a>  
+<a href="https://stackoverflow.com/users/19853487/phyo-thiha-win" target="blank"><img align="center" src="./images/stackoverflow-logo.png" alt="phyo-thiha-win-stackoverflow" height="32" /></a>  
 </p> 
 
 <br>
