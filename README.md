@@ -48,13 +48,13 @@
 <p align="left">  
 <a href="https://linkedin.com/in/phyo-thiha-win-a8a496183" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1656958733linkedin-logo-png.png" alt="phyo-thiha-win-a8a496183" height="30" /></a> 
 <img width="16">
-<a href="https://stackoverflow.com/users/19853487/phyo-thiha-win" target="blank"><img align="center" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.png" alt="phyo-thiha-win-stackoverflow" height="30" /></a>  
+<a href="https://stackoverflow.com/users/19853487/phyo-thiha-win" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKjhz5aIvPEBpyvbCsK5xF41jhD_v83ZWIw&s" alt="phyo-thiha-win-stackoverflow" height="32" /></a>  
 </p> 
 
 <br>
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=phyothihawin&show_icons=true&layout=compact&locale=en&langs_count=5&theme=dark&hide_border=true&order=2" height="160" alt="phyothihawin" /> &nbsp; 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=phyothihawin&show_icons=true&layout=compact&locale=en&langs_count=5&theme=dark&order=2" height="160" alt="phyothihawin" /> &nbsp; 
 <img src="https://github-readme-stats.vercel.app/api?username=phyothihawin&show_icons=true&locale=en&theme=dark" height="160"  alt="phyothihawin" />
 </div>
 
