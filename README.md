@@ -1,5 +1,5 @@
   
-<h1 align="left">Hi there! <img src="./images/hand_wave.gif" height="30" /></h1>  
+<h1 align="left">Hi there! <img src="./images/hand_wave.gif" height="30" style="width: auto;" /></h1>  
 
 ###
 
