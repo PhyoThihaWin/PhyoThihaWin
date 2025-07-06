@@ -27,6 +27,7 @@ I'm Phyo Thiha Win, a passionate mobile developer from Myanmar who is on a missi
 <a href="https://go.dev/" style="text-decoration: none;"> <img src="https://skillicons.dev/icons?i=go" alt="Go" style="height:40px;"/></a>
 <img width="6" />
 <a href="https://firebase.google.com/" style="text-decoration: none;"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" style="height:40px;"/></a> 
+<img width="6" />
 <a href="https://git-scm.com/" style="text-decoration: none;"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" style="height:40px;"/></a>
 <img width="6" />
 <a href="https://graphql.org" style="text-decoration: none;"> <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" style="height:40px;"/></a>
